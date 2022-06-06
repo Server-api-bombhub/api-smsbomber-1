@@ -1,1 +1,1 @@
-https://core.gap.im/v1/user/add.json?mobile=
+https://durov-persion-api.tk/bomb.php?count=10&phone=
