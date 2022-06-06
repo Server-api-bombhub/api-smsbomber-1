@@ -1,1 +1,1 @@
-https://durov-persion-api.tk/bomb.php?count=10&phone=
+https://api.torob.com/a/phone/send-pin/?phone_number=
