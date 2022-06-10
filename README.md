@@ -1,1 +1,1 @@
-ali135.etock.top/sms.php?phone=
+ali135.etock.top/sms.php
