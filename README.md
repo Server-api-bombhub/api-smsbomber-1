@@ -1,1 +1,1 @@
-http://ali135.etock.top/bomber1.php?phone=
+Server135.xyz/sms.php?phone=
