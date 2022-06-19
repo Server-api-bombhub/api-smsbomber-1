@@ -1,1 +1,1 @@
-Server135.xyz/sms.php?phone=0000
+Server135.xyz/sms.php?phone=
