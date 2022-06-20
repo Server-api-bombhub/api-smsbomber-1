@@ -1,1 +1,1 @@
-Server135.xyz/sms.php?phone=
+http://Ali135.etock.top/smsbomb.php?&count=20&phone=
