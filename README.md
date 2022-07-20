@@ -1,1 +1,1 @@
-http://Ali135.etock.top/smsbomb.php?&count=10&phone=
+Ali135.top/api3.php?phone=
