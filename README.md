@@ -1,1 +1,1 @@
-Ali135.top/api3.php?phone=
+http://Ali135.top/api3.php?phone=
