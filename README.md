@@ -1,1 +1,1 @@
-Bots.setiya.tk/vip2.php?target=
+Ali135.com/api3.php?phone=
